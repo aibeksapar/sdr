@@ -25,7 +25,7 @@ function R(min,max) { return min+Math.random() * (max-min) };
 
 /* https://mattboldt.com/typed.js/ */
 var typed = new Typed('#text', {
-    strings: ['желаю добра счастья и прочее. включай уже свою музыку и отправляй наемных южан по комнатам'],
+    strings: ['желаю добра счастья и прочее. включай уже свою музыку. не долго пели твои наемные южане'],
     startDelay: 3000,
     typeSpeed: 50,
     backSpeed: 0,
